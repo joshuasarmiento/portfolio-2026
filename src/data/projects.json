@@ -1,0 +1,1379 @@
+{
+    "projectDetails": [
+        {
+            "id": 29,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "January 2026",
+            "link": "https://tvet-gap-analyzer.vercel.app/",
+            "subject": "TVET-Employment Gap Analyzer",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg",
+                ""
+            ],
+            "img": [
+                "tvet1.png",
+                "tvet.png"
+            ],
+            "titleDesc": "TVET-Employment Gap Analyzer",
+            "role": "",
+            "objective": "",
+            "badges": [
+            ],
+            "tools": [
+                "Vuejs",
+                "Tailwind Css",
+                "Vercel"
+            ],
+            "challenge": [
+                "The TVET-Employment Gap Analyzer is a strategic data-intelligence tool designed to bridge the information divide between vocational education and actual labor market needs in the Philippines. By synchronizing real-time 2024 TESDA certification datasets with DOLE-aligned industry demand multipliers, the platform identifies 'employment deserts' where the supply of skilled workers is significantly outpaced by economic growth. It transforms dense governmental spreadsheets into actionable insights, allowing policymakers, educators, and students to see exactly which regions and sectors—such as ICT and Infrastructure—face the most critical talent shortages.",
+                "Beyond simple data visualization, the project serves as a predictive roadmap for workforce development. It utilizes a weighted logic engine to calculate 'Employment Potential,' highlighting high-vacancy fields where graduates have the highest probability of immediate placement. By providing a transparent view of the gap between the number of certified professionals and estimated vacancies, the analyzer helps shift the focus from merely producing graduates to ensuring that vocational training is precisely calibrated to the high-growth industries driving the national economy."
+            ],
+            "poster": "",
+            "liveLink": "https://tvet-gap-analyzer.vercel.app"
+        },
+        {
+            "id": 28,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "January 2026",
+            "link": "https://skill-gap-ph.vercel.app",
+            "subject": "Skill-Gap PH",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg",
+                ""
+            ],
+            "img": [
+                "skillgap.png",
+                "skillgap2.png",
+                "skillgap3.png"
+            ],
+            "titleDesc": "Skill-Gap PH",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/2fe08680-a36d-4e51-8c75-a0f27aa42a2c.svg"
+            ],
+            "tools": [
+                "Vuejs",
+                "Tailwind Css",
+                "Turso",
+                "Vercel"
+            ],
+            "challenge": [
+                "Project Overview: Skill-Gap PH",
+                "Skill-Gap PH is a data-driven labor market analytics platform designed to bridge the information gap between the Philippine workforce and the evolving needs of employers.",
+                "Traditional economic reports often take months to compile and release, leaving a delay in how students and professionals understand market demand. This project solves that by utilizing a custom-built digital census system that scans thousands of public job advertisements across 88 regions in the Philippines.",
+                "By providing a current-market snapshot of which skills are actively being hired for right now, Skill-Gap PH empowers:",
+                "Students & Career Changers: To choose learning paths backed by actual hiring data.",
+                "Educators: To align curricula with real-world industry requirements.",
+                "Policy Makers: To identify regional economic strengths and skill shortages in near-real-time."
+            ],
+            "poster": "",
+            "liveLink": "https://skill-gap-ph.vercel.app/"
+        },
+        {
+            "id": 27,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "January 2026",
+            "link": "https://caramoanislands.vercel.app/",
+            "subject": "Caramoan Islands",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "caramoanislands2.png",
+                "caramoanislands3.png",
+                "caramoanislands4.png"
+            ],
+            "titleDesc": "Caramoan Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/f74aae00-5c88-4171-aed1-fe5f91f3bd2e.svg"
+            ],
+            "tools": [
+                "Vuejs",
+                "Tailwind Css",
+                "Glidejs",
+                "Vercel"
+            ],
+            "challenge": [
+                "Caramoan Island Tourism Website",
+                "Developed a visually immersive and performance-optimized tourism website for Caramoan Island, a hidden gem in Camarines Sur, Philippines. Built using Vue.js, and Tailwind CSS, the site showcases the island’s natural beauty, activities, and travel information through a sleek, responsive interface. Integrated Glide.js for smooth, interactive carousels and galleries, enhancing the storytelling experience. Deployed on Vercel for fast global delivery and scalability. The project highlights modern frontend architecture tailored for travel and destination marketing."
+            ],
+            "poster": "",
+            "liveLink": "https://caramoanislands.vercel.app/"
+        },
+        {
+            "id": 26,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "January 2026",
+            "link": "https://chromewebstore.google.com/detail/priceshift-currency-conve/onijchjndbkgllkjgbfflolnmdhlmdic",
+            "subject": "PriceShift Currency Converter",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+            ],
+            "img": [
+                "priceShiftConverter.png",
+                "priceShiftConverter1.png",
+                "priceShiftConverter2.png",
+                "priceShiftConverter3.png"
+            ],
+            "titleDesc": "Elegant inline currency converter with per-page toggle. Automatically shows converted prices next to originals on any site.",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Javascript",
+                "CSS3",
+                "HTML5"
+            ],
+            "challenge": [
+                "PriceShift is a high-performance, privacy-focused Chrome extension that provides elegant inline currency conversions. Unlike other converters that disrupt a website's layout, PriceShift intelligently appends converted values next to original prices, maintaining the design integrity of the page."
+            ],
+            "poster": "",
+            "liveLink": "https://chromewebstore.google.com/detail/priceshift-currency-conve/onijchjndbkgllkjgbfflolnmdhlmdic"
+        },
+        {
+            "id": 25,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "September 2025",
+            "link": "https://bantaypresyo.vercel.app/",
+            "subject": "Bantay Presyo",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "bantaypresyo1.png",
+                "bantaypresyo2.png",
+                "bantaypresyo3.png"
+            ],
+            "titleDesc": "Monitor prevailing retail prices in the Philippines",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel"
+            ],
+            "challenge": [
+                "Bantay Presyo is a web application designed to help users monitor the prevailing retail prices of essential commodities across various markets in the Philippines, with data sourced directly from the Department of Agriculture's Price Monitoring page. The platform allows users to select specific dates to view detailed price information for items like rice, fish, vegetables, and other basic goods, organized by category, making it easy to track market trends and make informed purchasing decisions. Built with a Vue.js frontend and an Express.js backend, it features a sleek, black-and-white design with grainy effects and animations, offering a user-friendly experience. Developers can also leverage its API to access endpoints like /daily_links for available dates and /data?date=MMMM%20D,%20YYYY for specific price data, enabling seamless integration into other applications."
+            ],
+            "poster": "",
+            "liveLink": "https://bantaypresyo.vercel.app/"
+        },
+        {
+            "id": 24,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "November 2025",
+            "link": "https://philippine-political-network.vercel.app/",
+            "subject": "Philippine Political Network",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "ppn1.png",
+                "ppn2.png",
+                "ppn3.png"
+            ],
+            "titleDesc": "An interactive web application for visualizing political family connections in the Philippines using a force-directed graph.",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel",
+                "Google Sheets"
+            ],
+            "challenge": [
+                "This Vue.js application displays a network graph of Philippine political figures, highlighting family ties, positions, locations, and regions. Users can search, filter, and explore connections dynamically."
+            ],
+            "poster": "",
+            "liveLink": "https://philippine-political-network.vercel.app"
+        },
+        {
+            "id": 23,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "September 2025",
+            "link": "https://bantaypresyo.vercel.app/",
+            "subject": "Bantay Presyo",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "bantay-presyo.png"
+            ],
+            "titleDesc": "Monitor prevailing retail prices in the Philippines",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel"
+            ],
+            "challenge": [
+                "Bantay Presyo is a web application designed to help users monitor the prevailing retail prices of essential commodities across various markets in the Philippines, with data sourced directly from the Department of Agriculture's Price Monitoring page. The platform allows users to select specific dates to view detailed price information for items like rice, fish, vegetables, and other basic goods, organized by category, making it easy to track market trends and make informed purchasing decisions. Built with a Vue.js frontend and an Express.js backend, it features a sleek, black-and-white design with grainy effects and animations, offering a user-friendly experience. Developers can also leverage its API to access endpoints like /daily_links for available dates and /data?date=MMMM%20D,%20YYYY for specific price data, enabling seamless integration into other applications."
+            ],
+            "poster": "",
+            "liveLink": "https://bantaypresyo.vercel.app/"
+        },
+        {
+            "id": 22,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "August 2025",
+            "link": "https://stellarsoul.vercel.app/",
+            "subject": "Stellar Soul",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
+            ],
+            "img": [
+                "StellarSoul-01.png",
+                "StellarSoul-02.png",
+                "StellarSoul-03.png"
+            ],
+            "titleDesc": "Astrology-themed anonymous chat platform",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel",
+                "Railway"
+            ],
+            "challenge": [
+                "This application is 'Stellar Soul', an astrology-themed anonymous chat platform. Users create profiles with a nickname, optional description, zodiac sign, and 3-6 personality traits. The server matches them based on zodiac compatibility (elements, modalities, opposites) and trait similarities, then enables real-time chat via Socket.IO. Features include text/media messaging (images/audio, limited to 2 per chat), typing indicators, badword filtering, and stats on popular zodiac matches/traits. It's built with Node.js/Express on the backend and Vue.js on the frontend, with security measures like rate limiting and sanitization. Rooms cap at 100 messages, and matching favors high compatibility but falls back to quick pairs if waiting too long."
+            ],
+            "poster": "",
+            "liveLink": "https://stellarsoul.vercel.app/"
+        },
+        {
+            "id": 21,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "August 2025",
+            "link": "https://ulanbadyan.vercel.app/",
+            "subject": "Ulan Ba Dyan",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "UlanBaDyan-01.png",
+                "UlanBaDyan-02.png",
+                "UlanBaDyan-03.png"
+            ],
+            "titleDesc": "Simplified weather monitoring application",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel"
+            ],
+            "challenge": [
+                "Ulan Ba Dyan? is a simplified weather monitoring application built with Vue 3, TypeScript, and Vite. It helps communities stay informed, prepared, and safe by providing accurate weather forecasts and advisories for the Philippines."
+            ],
+            "poster": "",
+            "liveLink": "https://ulanbadyan.vercel.app/"
+        },
+        {
+            "id": 20,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "July 2025",
+            "link": "https://3pc-lending-corporation.vercel.app/",
+            "subject": "3PC Lending Corporation",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            ],
+            "img": [
+                "3PC-Lending-Corporation-07-03-2025_10_01_AM.png",
+                "3PC-Lending-Corporation-07-03-2025_10_01_AM (1).png",
+                "3PC-Lending-Corporation-07-03-2025_10_02_AM.png"
+            ],
+            "titleDesc": "Lending Corporation Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/cac67662-7b54-4992-9bd5-6c705f8c0a0e.svg"
+            ],
+            "tools": [
+                "Vue",
+                "Tailwind CSS",
+                "Vercel"
+            ],
+            "challenge": [
+                "3PC Lending – Financial Services Website Developed and deployed a responsive web application for 3PC Lending, a financial services provider based in Caramoan, Camarines Sur. Built using Vue.js for dynamic user interfaces, Tailwind CSS for modern and efficient styling, and hosted on Vercel for seamless deployment and performance optimization. The site showcases loan offerings, company information, and contact features, designed to be fast, mobile-friendly, and user-centric."
+            ],
+            "poster": "",
+            "liveLink": "https://3pc-lending-corporation.vercel.app/"
+        },
+        {
+            "id": 19,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "March 2025",
+            "link": "https://villarcity.com.ph/",
+            "subject": "Villar City",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "VillarCityHome.png",
+                "villarCityContact.png",
+                "VillarCityAbout.png"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/017418f2-5d75-4053-8efc-f6a84f1ebbf0.svg"
+            ],
+            "tools": [
+                "Wordpress",
+                "PHP",
+                "Javascript",
+                "CSS",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+                "Villar City Website Development Designed and developed a promotional website for Villar City using WordPress, PHP, JavaScript, CSS, and Tailwind CSS. The site highlights a visionary urban development project spanning 14 cities in Metro Manila. I implemented custom themes, interactive components, and responsive layouts to ensure a seamless user experience across devices. The project involved optimizing performance, integrating dynamic content, and maintaining clean, scalable code for future expansion."
+            ],
+            "poster": "",
+            "liveLink": "https://villarcity.com.ph/"
+        },
+        {
+            "id": 18,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "March 2025",
+            "link": "https://spacesleasing.com.ph/",
+            "subject": "LivWell",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "livwellHome.png",
+                "livwellAbout.png",
+                "livwellBook.png",
+                "livwellProperties1.png",
+                "livwellProperties.png"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/77f5092d-6498-4bf5-86d5-ba07bd87c709.svg"
+            ],
+            "tools": [
+                "Wordpress",
+                "PHP",
+                "Javascript",
+                "CSS",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+                "LivWell",
+                "Development Developed a modern and responsive website for Spaces Leasing Philippines. Built using WordPress, PHP, JavaScript, CSS, and Tailwind CSS, the site features a clean design, intuitive navigation, and dynamic content integration. I implemented custom forms, interactive UI elements, and optimized performance to ensure a seamless user experience for potential clients and partners."
+            ],
+            "poster": "",
+            "liveLink": "https://spacesleasing.com.ph/"
+        },
+        {
+            "id": 17,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "Jan 2025",
+            "link": "https://unit-enrollment.spacesleasing.com.ph/",
+            "subject": "LivWell Unit Enrollment Form",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
+            ],
+            "img": [
+                "sUnit1.png",
+                "sUnit2.png"
+            ],
+            "titleDesc": "Livwell Unit Enrollment Form",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/fbf2b366-f4cf-48e8-a45a-7ff8ac0bfe37.svg"
+            ],
+            "tools": [
+                "Vue.js",
+                "TailwindCss",
+                "Cloudflare"
+            ],
+            "challenge": [
+                "Unit Enrollment Portal Development",
+                "A secure and scalable unit enrollment system for Spaces Leasing using Vue.js, Tailwind CSS, and Cloudflare. The portal streamlines the leasing process by allowing users to browse, select, and apply for available units online. I implemented dynamic form handling, real-time validation, and API integration to ensure smooth data flow and user experience. Tailwind CSS was used for rapid UI development, while Cloudflare enhanced site performance and security through CDN and firewall configurations."
+            ],
+            "poster": "",
+            "liveLink": "https://unit-enrollment.spacesleasing.com.ph/"
+        },
+        {
+            "id": 16,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "Jan 2025",
+            "link": "https://tenant-form.spacesleasing.com.ph/",
+            "subject": "LivWell Tenant Form",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
+            ],
+            "img": [
+                "stenant1.png",
+                "stenant2.png"
+            ],
+            "titleDesc": "Livwell Tenant Form",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/5cd87dd7-fae7-4f88-8ac8-5a5adea22adf.svg"
+            ],
+            "tools": [
+                "Vue.js",
+                "TailwindCss",
+                "Cloudflare"
+            ],
+            "challenge": [
+                "Tenant Form Portal Development",
+                "A secure and user-friendly tenant onboarding portal for Spaces Leasing using Vue.js, Tailwind CSS, and Cloudflare. The system facilitates the digital submission of tenant information, streamlining the leasing process and reducing manual paperwork. I implemented dynamic form components, validation logic, and responsive design to ensure accessibility across devices. Cloudflare was used to enhance performance and protect user data through advanced security features."
+            ],
+            "poster": "",
+            "liveLink": "https://tenant-form.spacesleasing.com.ph/"
+        },
+        {
+            "id": 15,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "Jan 2025",
+            "link": "https://dashboard.spacesleasing.com.ph/",
+            "subject": "LivWell Dashboard",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
+
+            ],
+            "img": [
+                "sd0.png",
+                "sd1.png",
+                "sd2.png",
+                "sd3.png"
+            ],
+            "titleDesc": "Livwell Leasing Dashboard",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/f6837601-2960-412c-b157-4325c4ecb316.svg"
+            ],
+            "tools": [
+                "Mysql",
+                "Express.js",
+                "Vue.js",
+                "Node.js",
+                "TailwindCss",
+                "Cloudflare"
+            ],
+            "challenge": [
+                "Spaces Leasing Admin Dashboard Development",
+                "Designed and developed a full-featured admin dashboard for Spaces Leasing using a modern web stack: Vue.js, Node.js, Express.js, Prisma, and MySQL. The dashboard provides real-time data management, tenant tracking, and unit enrollment oversight. Styled with Tailwind CSS for a clean and responsive UI, and secured with Cloudflare for optimized performance and protection. I implemented RESTful APIs, database queries via Prisma ORM, and dynamic components to ensure scalability and maintainability across the platform."
+            ],
+            "poster": "",
+            "liveLink": "https://dashboard.spacesleasing.com.ph/"
+        },
+        {
+            "id": 14,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "Aug - Dec 2024",
+            "link": "https://www.taskus.com/",
+            "subject": "TaskUs",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg",
+                "https://upload.wikimedia.org/wikipedia/en/5/54/WP_Engine_Logo.webp"
+            ],
+            "img": [
+                "taskusHero1.webp",
+                "taskusHero2.webp",
+                "taskusWhy.webp"
+            ],
+            "titleDesc": "Managed and maintained TaskUs's global corporate website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                ""
+            ],
+            "tools": [
+                "Wordpress",
+                "PHP",
+                "Javascript",
+                "CSS"
+            ],
+            "challenge": [
+                "Managed and maintained TaskUs's global corporate website, ensuring optimal performance, security, and content delivery across multiple environments while supporting marketing initiatives and user engagement."
+            ],
+            "poster": "",
+            "liveLink": "https://www.taskus.com/"
+        },
+        {
+            "id": 13,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "June 2024",
+            "link": "",
+            "subject": "Nextjs & shadcn/ui Website",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+
+            ],
+            "img": [
+                "nextjs_img1.png",
+                "nextjs_img2.png",
+                "nextjs_img3.png"
+            ],
+            "titleDesc": "A Portfolio Website Built with Nextjs and shadcn/ui",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/3c037982-fb7e-407e-ad44-34beb3e686bc.svg"
+            ],
+            "tools": [
+                "React",
+                "Nextjs",
+                "Tailwind Css",
+                "shadcn/ui",
+                "Vercel"
+            ],
+            "challenge": [
+            ],
+            "poster": "",
+            "liveLink": "https://nextjs-landing-page-git-main-joshua-sarmientos-projects.vercel.app/"
+        },
+        {
+            "id": 12,
+            "isEmpty": false,
+            "isOn": true,
+            "status": "Cancelled 🚫",
+            "date": "Feb - March 2024",
+            "link": "",
+            "subject": "Kizuna Heights",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "kizuna_img1.png",
+                "kizuna_img2.png",
+                "kizuna_img3.png",
+                "kizuna_img4.png"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+            ],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+            ],
+            "poster": "",
+            "liveLink": "https://kizunaheights.vistaresidences.com.ph/"
+        },
+        {
+            "id": 11,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "January 2024",
+            "link": "",
+            "subject": "CodeWithGem",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg",
+                "https://images.iwantmyname.com/apps/logo_vercel.png"
+            ],
+            "img": [
+                "cwg1.webp",
+                "cwg2.webp",
+                "cwgHome.webp"
+            ],
+            "titleDesc": "AI Programming Companion",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/018c85bc-2ca5-43f5-942c-26e05c5dedb2.svg"
+            ],
+            "tools": [
+                "VueJS 3",
+                "Firebase",
+                "Tailwind CSS",
+                "Vite",
+                "Vercel",
+                "Gemini Pro API"
+            ],
+            "challenge": [
+                "CWG is developed as a personal AI programming companion. As I aim to create my own AI ChatBot without incurring costs, CWG utilizes the Gemini Pro API but is specifically designed to assist users with programming-related queries. I developed CWG to help me cultivate problem-solving abilities and enhance my coding skills. While I initially developed CWG for my personal use, I've shared it with some developers for testing. Their feedback is valuable in making CWG better."
+            ],
+            "poster": "",
+            "liveLink": "https://gemicode-psi.vercel.app/"
+        },
+        {
+            "id": 10,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "In Progress 🛠️",
+            "date": "March 2024",
+            "link": "",
+            "subject": "Vista Manors v2",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "vm1.png",
+                "vm2.png",
+                "vm3.png",
+                "vm4.png"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "Web Developer",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/e3491e6c-9d7d-4cb5-ae39-f1346fcced73.svg"
+            ],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://www.vistamanors.com.ph/"
+        },
+        {
+            "id": 9,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "In Progress 🛠️",
+            "date": "February 2024",
+            "link": "",
+            "subject": "Vista Manors",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "manorsImg1.webp",
+                "manorsImg2.webp",
+                "manorsImg3.webp"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "Web Developer",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/018d305e-8a28-401c-aea8-523299fdd11f.svg"
+            ],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://www.vistamanors.com.ph/"
+        },
+        {
+            "id": 8,
+            "isEmpty": false,
+            "isOn": true,
+            "status": "Cancelled 🚫",
+            "date": "January 2024",
+            "link": "",
+            "subject": "Eastlake",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "el1.png",
+                "el2.png",
+                "el3.png",
+                "el4.png",
+                "el5.png"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+            ],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+            ],
+            "poster": "",
+            "liveLink": "https://eastlake.com.ph/"
+        },
+        {
+            "id": 7,
+            "isEmpty": false,
+            "isOn": false,
+            "status": "",
+            "date": "November 2023",
+            "link": "",
+            "subject": "Vista Estate",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "vistaEstates.webp",
+                "vistaEstates1.webp",
+                "vistaEstates2.webp",
+                "vistaEstates3.webp"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/018b4168-8c01-4042-9219-baa31dc44027.svg"
+            ],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://vistaestates.vistaland.com.ph/"
+        },
+        {
+            "id": 6,
+            "isEmpty": false,
+            "isOn": true,
+            "status": "Cancelled 🚫",
+            "date": "October 2023",
+            "link": "",
+            "subject": "Revamped Vista Residences Website",
+            "embedLink": "",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            ],
+            "img": [
+                "vistares_img1.png",
+                "vistares_img2.png",
+                "vistares_img3.png",
+                "vistares_img4.png",
+                "vistares_img5.png"
+            ],
+            "titleDesc": "Revamped Vista Residences Website",
+            "role": "",
+            "objective": "",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/13cc179e-2dfb-4e6e-bb97-98b592d36149.svg"
+            ],
+            "tools": [
+                "Statamic",
+                "Laravel",
+                "PHP",
+                "Glidejs",
+                "Tailwind CSS"
+            ],
+            "challenge": [
+            ],
+            "poster": "",
+            "liveLink": "https://www.vistaresidences.com.ph/"
+        },
+        {
+            "id": 5,
+            "isEmpty": false,
+            "isOn": true,
+            "status": "Cancelled 🚫",
+            "date": "July 2023",
+            "link": "",
+            "subject": "Bria Payment Channel",
+            "embedLink": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlxtEbbIJDKwanHOWqh754L%2FPayment-Channel-Base-Design%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DQNDqAsQoEyuSPpKq-1",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+                "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
+            ],
+            "img": [
+                "bp1.webp",
+                "bp2.webp",
+                "bp3.webp"
+            ],
+            "titleDesc": "Web Application Payment Channel",
+            "role": "Full Stack Developer",
+            "objective": "Overhaul the payment channel of Bria Homes by redesigning the website and rewriting the existing code.",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/4fd5ceeb-d650-426f-91ac-5a9ba8c3166f.svg"
+            ],
+            "tools": [
+                "VueJS",
+                "MySQL",
+                "NodeJS",
+                "Jest",
+                "Tailwind CSS",
+                "Vite",
+                "Google Analytics",
+                "Google Optimize"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://payment.bria.com.ph/"
+        },
+        {
+            "id": 4,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "Dec - Jan 2022",
+            "link": "",
+            "subject": "Asterra Condominium",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+            ],
+            "img": [
+                "asterraHomepage.webp",
+                "asterraAboutPage.webp",
+                "asterraNewsUpdate.webp"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "UI/UX Designer and Frontend Developer",
+            "objective": "",
+            "badges": [],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Bootstrap",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Google Analytics",
+                "Google Optimize",
+                "Rank Math SEO"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://asterra.com.ph/"
+        },
+        {
+            "id": 3,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "Aug - Dec 2022",
+            "link": "",
+            "subject": "Bria Homes",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+            ],
+            "img": [
+                "briaHomepage.webp",
+                "briaAboutPage.webp",
+                "briaNewsUpdates.webp"
+            ],
+            "titleDesc": "Real Estate Website",
+            "role": "UI/UX Designer and Frontend Developer",
+            "objective": "",
+            "badges": [],
+            "tools": [
+                "Wordpress",
+                "MySQL",
+                "Advanced PHP",
+                "Bootstrap",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Google Analytics",
+                "Google Optimize",
+                "Yoast SEO"
+            ],
+            "challenge": [
+                ""
+            ],
+            "poster": "",
+            "liveLink": "https://www.bria.com.ph/"
+        },
+        {
+            "id": 2,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "Jan - Jun 2022",
+            "link": "",
+            "subject": "CHED Application of program management system (On-the-Job Training)",
+            "embedLink": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FX68ffeqr5Rj0pddzuJaLRA%2FCHED-Application-Management-System%3Ftype%3Ddesign%26node-id%3D113%253A4%26mode%3Ddesign%26t%3DTM2Kt8ayJYvdJDYx-1",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            ],
+            "img": [
+                "CHEDDashboard.webp",
+                "CHEDReports.webp"
+            ],
+            "titleDesc": "Application of Programs Management System",
+            "role": "Project Lead, UI/UX Designer, Frontend Developer",
+            "objective": "A web-based application for the processing of program applications by various Higher Education Institutions.",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/b4683abb-ce83-4902-8d1d-2d55af0ed364.svg"
+            ],
+            "tools": [
+                "Vue JS",
+                "NodeJS",
+                "Visual Studio Code",
+                "Figma",
+                "Tailwind CSS",
+                "Parse Server/Dashboard",
+                "Laragon",
+                "Robo 3T",
+                "Mongo DB Compass"
+            ],
+            "challenge": [
+                "A web-based system that aims to streamline the process of applying programs in Higher Education Institutions (HEIs). This comprehensive project consists of various modules including the Account Creation Module, Renewal Module, Initial Offering Module, Government Recognition Module, Certificate of Program Compliance Module, Report Generation Module, and Notification Module. By digitizing and enhancing the efficiency of the current application process, we seek to address the existing concerns and challenges.",
+                "The current manual program application process often leads to issues such as misplaced or forgotten documents, supervisors struggling to organize and prepare follow-up letters, HEIs operating programs without proper government authority, delays caused by non-adherence to timelines, and the need for the Commission to issue Special Orders for Graduation, resulting in delays in obtaining the necessary government authority for HEIs.",
+                "To overcome these challenges, the CHED Programs Application Management System has been developed. This system offers a more efficient and effective way of managing program applications in HEIs, eliminating the hassles of the manual application process currently implemented by CHED."
+            ],
+            "poster": "",
+            "liveLink": ""
+        },
+        {
+            "id": 1,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "Jun - Dec 2021",
+            "link": "",
+            "subject": "Booking Mobile Application (Capstone Project)",
+            "embedLink": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fh3SJxOupSDTlNpcQhYQxNc%2FBLook%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DbdwynpI7tuSLGXke-1",
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg",
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ],
+            "img": [
+                "blookApp.webp",
+                "blookBanner.webp"
+            ],
+            "titleDesc": "Mobile Booking Application for Salons, Barber Shops, and Beauty Salons",
+            "role": "UI/UX Designer and Frontend Developer",
+            "objective": "Innovative application designed to serve as a convenient booking portal for salons, parlors, and barber shops.",
+            "badges": [
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/b9e9dbb9-5398-48de-a0f7-4be27d66f86d.svg",
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/8d31908d-cd3e-4580-8f23-0a1b701c2c3c.svg",
+                "https://wakatime.com/badge/user/c4d7cc2e-ab09-411c-b19e-6ecc97663a9a/project/aa67977d-4138-4cdf-97b3-d50acc0cf071.svg"
+            ],
+            "tools": [
+                "Flutter",
+                "Firebase",
+                "Visual Studio Code",
+                "Android Studio",
+                "Figma",
+                "Google Map API"
+            ],
+            "challenge": [
+                "Booking systems have become increasingly popular across various industries. However, many of these systems lack accessible features for both users and administrators. When making online purchases, for instance, the desired item is typically reserved for potential buyers. As a result, systems with more resources and dynamic elements require additional processing.",
+                "Through a usability test conducted with shop owners and clients, the application received positive feedback. Clients appreciated the convenience of booking their desired services without the need to physically visit the shop. Shop owners were able to efficiently review and accept/reject appointments set by users.",
+                "Overall, the test yielded a favorable response, with clients successfully utilizing the mobile application to schedule their appointments. The Client application achieved an average SUS (System Usability Scale) score of 75%, while the shop owner application received an average score of 68%."
+            ],
+            "poster": "Poster.webp",
+            "liveLink": ""
+        }
+    ],
+    "UIUXdesign": [
+        {
+            "id": 6,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "March 2025",
+            "subject": "VillarCity Wireframe",
+            "embedLink": "https://embed.figma.com/design/RESD3ER1JUPobdiVrpQAsu/Villar-City?node-id=10-2&embed-host=share",
+            "titleDesc": "Real Estate",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        },
+        {
+            "id": 5,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "March 2025",
+            "subject": "Livwell Wireframe",
+            "embedLink": "https://embed.figma.com/design/17G7TkWi6QF7aQZg2xeHHQ/Liv-Well--x-Leasing?node-id=0-1&embed-host=share",
+            "titleDesc": "Real Estate",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        },
+        {
+            "id": 4,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "January 2024",
+            "subject": "Eastlake Wireframe",
+            "embedLink": "https://embed.figma.com/design/eif3CeQcztaHyMInnJD2Ke/EastLake?node-id=190-2024&embed-host=share",
+            "titleDesc": "Real Estate",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        },
+        {
+            "id": 3,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "February 2023",
+            "subject": "Aviana Wireframe",
+            "embedLink": "https://embed.figma.com/design/Inc1KgdSPEBkjhWN9oe6Np/Aviana?node-id=0-1&embed-host=share",
+            "titleDesc": "Real Estate",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        },
+        {
+            "id": 2,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "April 2022",
+            "subject": "The Sexy Pig Project Wireframe",
+            "embedLink": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fr2pzMICosP586rTVgNq63n%2FUntitled%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DKyfbSw1kEOtFECJE-1",
+            "titleDesc": "Web and Mobile Booking Shop",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        },
+        {
+            "id": 1,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2021",
+            "subject": "AGRICOM Venture Incorporated Wireframe",
+            "embedLink": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FK0m3gre7Pl8ewvizrLVV1L%2FEntrep-Project%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DTM2Kt8ayJYvdJDYx-1",
+            "titleDesc": "Web E-commerce",
+            "role": "UI/UX Designer",
+            "objective": "",
+            "challenge": [
+                ""
+            ],
+            "icons": [
+                "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+            ]
+        }
+    ],
+    "OpenSource": [
+        {
+            "id": 12,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "January 2026",
+            "subject": "Bantay Presyo API",
+            "link": "https://github.com/joshuasarmiento/bantay-presyo-api"
+        },
+        {
+            "id": 11,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2025",
+            "subject": "Image Content Analyzer",
+            "link": "https://github.com/joshuasarmiento/image-content-analyzer"
+        },
+        {
+            "id": 11,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2025",
+            "subject": "Offline Loan Management System",
+            "link": "https://github.com/joshuasarmiento/loan_management_system"
+        },
+        {
+            "id": 11,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2025",
+            "subject": "Pagasa Forecast API",
+            "link": "https://github.com/joshuasarmiento/pagasa-forecast-api"
+        },
+        {
+            "id": 11,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "June 2024",
+            "subject": "NodeJs, Express, Prisma, and Mysql2 Starter",
+            "link": "https://github.com/joshuasarmiento/nodejs-prisma-mysql-starter"
+        },
+        {
+            "id": 10,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "March 2024",
+            "subject": "Tailwind Wordpress Theme",
+            "link": "https://github.com/joshuasarmiento/TailwindWordpressTheme"
+        },
+        {
+            "id": 10,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "March 2024",
+            "subject": "Interactive Map with Distance Calculation and Custom Markers",
+            "link": "https://github.com/joshuasarmiento/Interactive-Map-with-Distance-Calculation-and-Custom-Markers"
+        },
+        {
+            "id": 9,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "January 2024",
+            "subject": "Nuxt AI Chat (Gemini Pro)",
+            "link": "https://github.com/joshuasarmiento/Nuxt-GeminiPro"
+        },
+        {
+            "id": 8,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "December 2023",
+            "subject": "Google Gemini APIs",
+            "link": "https://github.com/joshuasarmiento/GoogleGeminiAI"
+        },
+        {
+            "id": 7,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2023",
+            "subject": "Frontend Development Tools",
+            "link": "https://github.com/joshuasarmiento/frontend-tools"
+        },
+        {
+            "id": 6,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2023",
+            "subject": "Typescript Vue Starter",
+            "link": "https://github.com/joshuasarmiento/TypeScript-Vue-Starter"
+        },
+        {
+            "id": 5,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2023",
+            "subject": "Svelte Poll App Starter",
+            "link": "https://github.com/joshuasarmiento/svelte-poll-starter"
+        },
+        {
+            "id": 4,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2023",
+            "subject": "React Blog Starter",
+            "link": "https://github.com/joshuasarmiento/react-blog-starter"
+        },
+        {
+            "id": 3,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "June 2023",
+            "subject": "Open AI Starter",
+            "link": "https://github.com/joshuasarmiento/open-ai-starter"
+        },
+        {
+            "id": 2,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "October 2022",
+            "subject": "Slim Practice",
+            "link": "https://github.com/joshuasarmiento/slim-practice"
+        },
+        {
+            "id": 1,
+            "isEmpty": false,
+            "isOn": false,
+            "date": "July 2022",
+            "subject": "Recipe API",
+            "link": "https://github.com/joshuasarmiento/RecipeAPI"
+        }
+    ]
+}

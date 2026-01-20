@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "DM Serif Display", serif;
+  --font-sans: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-accent: #2dd4bf;
+  --color-glass: rgba(255, 255, 255, 0.02);
+  --color-border-glass: rgba(255, 255, 255, 0.08);
+}
+
+:root {
+  background-color: #000;
+  color: #fff;
+}
+
+.glass-panel {
+  background: var(--color-glass);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-border-glass);
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel:hover {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(45, 212, 191, 0.3);
+}
+
+.nav-link {
+  @apply opacity-40 hover:opacity-100 hover:text-accent transition-all duration-500 relative flex flex-col items-center;
+}
+
+/* Subtle dot indicator for hover/active states */
+.nav-link::after {
+  content: '';
+  @apply w-1 h-1 bg-accent rounded-full absolute -bottom-2 opacity-0 transition-all duration-500 scale-0;
+}
+
+.nav-link:hover::after {
+  @apply opacity-100 scale-100;
+}
+
+/* If you want the dot to stay for the active router link */
+.router-link-active::after {
+  @apply opacity-100 scale-100;
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Frontend Development",
+    "icons": [
+      {
+        "name": "VueJS",
+        "link": "https://vuejs.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      },
+      {
+        "name": "React",
+        "link": "https://reactjs.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+      },
+      {
+        "name": "Tailwindcss",
+        "link": "https://tailwindcss.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+      },
+      {
+        "name": "Shadcn",
+        "link": "https://ui.shadcn.com/",
+        "icon": "https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000"
+      },
+      {
+        "name": "Pinia",
+        "link": "https://pinia.vuejs.org/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg"
+      },
+      {
+        "name": "Vite",
+        "link": "https://vitejs.dev/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
+      }
+    ]
+  },
+  {
+    "title": "Backend Development",
+    "icons": [
+      {
+        "name": "Nuxt",
+        "link": "https://nuxt.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+      },
+      {
+        "name": "Nextjs",
+        "link": "https://nextjs.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "PHP",
+        "link": "https://www.php.net/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+      },
+      {
+        "name": "Typescript",
+        "link": "https://www.typescriptlang.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "Nodejs",
+        "link": "https://nodejs.org/en",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+      },
+      {
+        "name": "ExpressJS",
+        "link": "https://expressjs.com/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+      }
+    ]
+  },
+  {
+    "title": "Content Management Systems (CMS)",
+    "icons": [
+      {
+        "name": "Wordpress",
+        "link": "https://wordpress.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+      },
+      {
+        "name": "Shopify",
+        "link": "https://www.shopify.com/",
+        "icon": "https://logos-download.com/wp-content/uploads/2016/10/Shopify_logo_icon.png"
+      },
+      {
+        "name": "Statamic",
+        "link": "https://statamic.com/",
+        "icon": "https://www.johncarter.co.uk/assets/Statamic-Logo-Rad.png"
+      }
+    ]
+  },
+  {
+    "title": "Hosting and Development",
+    "icons": [
+      {
+        "name": "Vercel",
+        "link": "https://vercel.com/",
+        "icon": "https://images.iwantmyname.com/apps/logo_vercel.png"
+      },
+      {
+        "name": "Railway",
+        "link": "https://railway.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
+      },
+      {
+        "name": "Cloudflare",
+        "link": "https://www.cloudflare.com/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg"
+      },
+      {
+        "name": "Apache",
+        "link": "https://httpd.apache.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"
+      },
+      {
+        "name": "Mysql",
+        "link": "https://www.mysql.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+      },
+      {
+        "name": "MariaDB",
+        "link": "https://mariadb.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
+      }
+    ]
+  },
+  {
+    "title": "Others",
+    "icons": [
+      {
+        "name": "Figma",
+        "link": "https://figma.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+      },
+      {
+        "name": "VScode",
+        "link": "https://code.visualstudio.com/download",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+      },
+      {
+        "name": "Git",
+        "link": "https://git-scm.com",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      },
+      {
+        "name": "GitHub",
+        "link": "https://github.com/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg"
+      },
+      {
+        "name": "GitLab",
+        "link": "https://about.gitlab.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+      },
+      {
+        "name": "Postman",
+        "link": "https://www.postman.com/",
+        "icon": "https://www.svgrepo.com/show/354202/postman-icon.svg"
+      },
+      {
+        "name": "Jest",
+        "link": "https://jestjs.io/",
+        "icon": "https://icon.icepanel.io/Technology/svg/Jest.svg"
+      },
+      {
+        "name": "DigitalOcean",
+        "link": "https://www.digitalocean.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "link": "https://cloud.google.com/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+      },
+      {
+        "name": "Wazuh",
+        "link": "https://wazuh.com/",
+        "icon": "https://ml.globenewswire.com/Resource/Download/cf6af760-b250-48cf-a29d-6ee618becd04?size=3"
+      },
+      {
+        "name": "ZAP",
+        "link": "https://www.zaproxy.org/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_of_ZAP_by_Checkmarx.svg"
+      },
+      {
+        "name": "RockyLinux 9",
+        "link": "https://rockylinux.org/",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg"
+      },
+      {
+        "name": "Kali Linux",
+        "link": "https://kali.org/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kali_Linux_Logo.png"
+      }
+    ]
+  }
+]

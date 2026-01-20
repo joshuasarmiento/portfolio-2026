@@ -1,0 +1,58 @@
+{
+    "JobDetails": [
+        {
+            "id": 1,
+            "position": "Full Stack Developer",
+            "companyName": "Vista Land & Lifescapes, Inc.",
+            "companyLogo": "vista-land-and-lifescapes.webp",
+            "startDate": "Jan 2025",
+            "endDate": "Present",
+            "link": "https://www.vistaland.com.ph/"
+        },
+        {
+            "id": 2,
+            "position": "Web Guru",
+            "companyName": "TaskUs",
+            "companyLogo": "taskus.png",
+            "startDate": "Aug 2024",
+            "endDate": "Dec 2024",
+            "link": "https://www.taskus.com/"
+        },
+        {
+            "id": 3,
+            "position": "Systems Developer",
+            "companyName": "Vista Residences",
+            "companyLogo": "vistares.jpg",
+            "startDate": "July 2024",
+            "endDate": "Aug 2024",
+            "link": "https://www.vistaresidences.com.ph/"
+        },
+        {
+            "id": 4,
+            "position": "Web Developer",
+            "companyName": "Vista Land & Lifescapes, Inc.",
+            "companyLogo": "vista-land-and-lifescapes.webp",
+            "startDate": "Aug 2023",
+            "endDate": "July 2024",
+            "link": "https://www.vistaland.com.ph/"
+        },
+        {
+            "id": 5,
+            "position": "Frontend Developer",
+            "companyName": "Bria Homes Inc.",
+            "companyLogo": "BriaLogo.webp",
+            "startDate": "Aug 2022",
+            "endDate": "Aug 2023",
+            "link": "https://www.bria.com.ph/"
+        },
+        {
+            "id": 6,
+            "position": "Software Developer - Intern",
+            "companyName": "CHED Regional Office V.",
+            "companyLogo": "ched-logo.webp",
+            "startDate": "Jan 2022",
+            "endDate": "Jun 2022",
+            "link": "https://chedro5stufap.com/"
+        }
+    ]
+}
