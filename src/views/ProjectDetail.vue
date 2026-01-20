@@ -31,27 +31,24 @@ const getImg = (name) => {
 <template>
   <div v-if="project" class="max-w-7xl mx-auto px-6 py-24">
     <div class="mb-20">
-      <router-link to="/" class="text-[10px] uppercase tracking-[0.5em] text-accent font-bold hover:opacity-70 transition-opacity">
+      <router-link to="/"
+        class="text-[10px] uppercase tracking-[0.5em] text-accent font-bold hover:opacity-70 transition-opacity">
         ← Back to Index
       </router-link>
       <h1 class="font-serif text-6xl md:text-8xl mt-10 mb-6 leading-[0.9] tracking-tighter">
         {{ project.subject }}
       </h1>
+      <span class="text-[10px] uppercase tracking-widest text-accent font-bold block">{{ project.date }}</span>
       <p class="text-zinc-400 text-xl md:text-2xl font-light max-w-3xl leading-relaxed">
-        {{ project.titleDesc }}
+        {{ project.titleDesc }} 
       </p>
     </div>
 
-    <div class="glass-panel rounded-[40px] md:rounded-[60px] overflow-hidden mb-24 relative group border border-white/10">
-      <swiper
-        :modules="modules"
-        :slides-per-view="1"
-        :effect="'fade'"
-        :loop="project.img?.length > 1"
-        :autoplay="{ delay: 4000, disableOnInteraction: false }"
-        :pagination="{ clickable: true }"
-        class="aspect-video w-full"
-      >
+    <div
+      class="glass-panel rounded-[40px] md:rounded-[60px] overflow-hidden mb-24 relative group border border-white/10">
+      <swiper :modules="modules" :slides-per-view="1" :effect="'fade'" :loop="project.img?.length > 1"
+        :autoplay="{ delay: 4000, disableOnInteraction: false }" :pagination="{ clickable: true }"
+        class="aspect-video w-full">
         <swiper-slide v-for="(image, index) in project.img" :key="index">
           <img :src="getImg(image)" class="w-full h-full object-cover" :alt="project.subject" />
         </swiper-slide>
@@ -59,7 +56,7 @@ const getImg = (name) => {
 
       <div class="absolute bottom-8 left-8 z-10 flex gap-3">
         <img v-for="icon in project.icons.filter(i => i)" :key="icon" :src="icon"
-             class="w-12 h-12 rounded-full bg-black/60 backdrop-blur-md p-2 border border-white/20 shadow-2xl" />
+          class="w-12 h-12 rounded-full bg-black/60 backdrop-blur-md p-2 border border-white/20 shadow-2xl" />
       </div>
     </div>
 
@@ -69,7 +66,7 @@ const getImg = (name) => {
           <span class="text-[10px] uppercase tracking-widest text-accent font-bold block mb-4">Core Stack</span>
           <div class="flex flex-wrap gap-2">
             <span v-for="tool in project.tools" :key="tool"
-                  class="px-4 py-1.5 rounded-full border border-white/10 bg-white/5 text-[10px] uppercase tracking-widest font-medium">
+              class="px-4 py-1.5 rounded-full border border-white/10 bg-white/5 text-[10px] uppercase tracking-widest font-medium">
               {{ tool }}
             </span>
           </div>
@@ -84,7 +81,8 @@ const getImg = (name) => {
       </div>
 
       <div class="lg:col-span-8 space-y-10">
-        <span class="text-[10px] uppercase tracking-widest text-zinc-500 font-bold block">Analysis & Implementation</span>
+        <span class="text-[10px] uppercase tracking-widest text-zinc-500 font-bold block">Analysis &
+          Implementation</span>
         <div v-for="(paragraph, index) in project.challenge" :key="index" class="relative pl-8 border-l border-white/5">
           <div class="absolute -left-px top-0 h-4 w-0.5 bg-accent"></div>
           <p class="text-lg md:text-xl text-zinc-300 leading-relaxed font-light">
@@ -102,10 +100,12 @@ const getImg = (name) => {
   background: white;
   opacity: 0.2;
 }
+
 :deep(.swiper-pagination-bullet-active) {
   background: var(--color-accent);
   opacity: 1;
 }
+
 .glass-panel {
   background: rgba(255, 255, 255, 0.02);
   backdrop-filter: blur(20px);

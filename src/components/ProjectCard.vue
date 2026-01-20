@@ -9,9 +9,10 @@ const getImageUrl = (name) => {
 // Logic to determine how many "bars" of complexity to show
 const getComplexityLevel = () => {
   const score = (props.project.tools?.length || 0) + (props.project.challenge?.length || 0)
-  if (score >= 5) return 3
-  if (score >= 3) return 2
-  return 1
+  if (score >= 6) return 3
+  if (score >= 4) return 2
+  if (score >= 3) return 1
+  return 0
 }
 </script>
 

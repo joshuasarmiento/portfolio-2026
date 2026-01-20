@@ -97,14 +97,37 @@ const getImageUrl = (name) => {
     </section>
 
     <section class="max-w-7xl mx-auto px-6 py-32">
-      <div
-        class="glass min-h-100 rounded-[60px] flex items-center justify-center text-center p-12 relative overflow-hidden border border-white/5">
-        <div class="absolute inset-0 opacity-10"
-          style="background-image: radial-gradient(#2dd4bf 1px, transparent 0); background-size: 40px 40px;"></div>
-        <h2 class="font-serif text-4xl md:text-6xl max-w-4xl leading-tight relative z-10">
-          Ready to <span class="text-accent">deploy</span> your next <span class="italic text-zinc-500">visionary</span>
-          enterprise system?
-        </h2>
+      <div class="relative group rounded-[50px] overflow-hidden border border-white/5 bg-zinc-900/20 backdrop-blur-sm transition-all duration-700 hover:border-accent/20">
+        
+        <div class="absolute inset-0 opacity-20 group-hover:opacity-30 transition-opacity duration-700"
+          style="background-image: radial-gradient(#2dd4bf 0.5px, transparent 0); background-size: 24px 24px;">
+        </div>
+        
+        <div class="absolute -top-24 -right-24 w-64 h-64 bg-accent/20 rounded-full blur-[100px] group-hover:bg-accent/30 transition-all duration-1000"></div>
+
+        <div class="relative z-10 flex flex-col items-center justify-center text-center py-24 px-6 md:py-32">
+          <span class="text-accent text-[10px] uppercase tracking-[0.4em] font-bold mb-6 border border-accent/20 px-4 py-2 rounded-full bg-accent/5">
+            Open for Collaboration
+          </span>
+          
+          <h2 class="font-serif text-5xl md:text-7xl max-w-4xl leading-[0.9] tracking-tight mb-10">
+            Ready to <span class="italic text-zinc-500 font-light">architect</span> your next <br>
+            <span class="text-white relative inline-block">
+              digital legacy?
+              <svg class="absolute -bottom-2 left-0 w-full h-2 text-accent" viewBox="0 0 100 10" preserveAspectRatio="none">
+                 <path d="M0 5 Q 50 10, 100 5" fill="none" stroke="currentColor" stroke-width="2" />
+              </svg>
+            </span>
+          </h2>
+
+          <a href="mailto:sarmientojoshuaalvarez@gmail.com" 
+             class="group/btn relative px-8 py-4 bg-white text-black rounded-full font-mono text-xs font-bold tracking-widest uppercase hover:bg-accent transition-colors duration-300">
+            <span class="relative z-10 flex items-center gap-2">
+              Start Project
+              <svg class="w-4 h-4 group-hover/btn:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+            </span>
+          </a>
+        </div>
       </div>
     </section>
   </main>

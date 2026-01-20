@@ -66,6 +66,16 @@
         "name": "ExpressJS",
         "link": "https://expressjs.com/",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+      },
+      {
+        "name": "Turso",
+        "link": "https://turso.tech",
+        "icon": "https://turso.tech/_next/static/media/turso-logomark-aqua.f140cf4c.svg"
+      },
+      {
+        "name": "Hono",
+        "link": "http://hono.dev/",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg"
       }
     ]
   },

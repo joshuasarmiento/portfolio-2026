@@ -11,7 +11,7 @@
          style="background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMiIgY3k9IjIiIHI9IjEiIGZpbGw9IiNmZmYiLz48L3N2Zz4='); background-size: 40px 40px;">
     </div>
 
-    <div class="fixed inset-0 pointer-events-none opacity-[0.09] z-50 contrast-150 brightness-100"
+    <div class="fixed inset-0 pointer-events-none opacity-[0.1] z-50 contrast-150 brightness-100"
          style="background-image: url('https://grainy-gradients.vercel.app/noise.svg');"></div>
 
     <AppNav />
