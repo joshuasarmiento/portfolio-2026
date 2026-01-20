@@ -11,7 +11,7 @@ const router = createRouter({
     { path: '/project/:id', name: 'detail', component: ProjectDetail, props: true }
   ],
   // UPDATED SCROLL BEHAVIOR
-  scrollBehavior(to, from, savedPosition) {
+  scrollBehavior(to, _from, savedPosition) {
     if (savedPosition) {
       return savedPosition
     }
