@@ -1,17 +1,42 @@
+<script setup>
+import { onMounted, onUnmounted } from 'vue'
+import AppNav from './components/AppNav.vue'
+import Lenis from '@studio-freight/lenis'
+
+let lenis
+
+onMounted(() => {
+  // Initialize Smooth Scroll
+  lenis = new Lenis({
+    duration: 1.2,
+    easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+    smoothWheel: true,
+    touchMultiplier: 2,
+  })
+
+  function raf(time) {
+    lenis.raf(time)
+    requestAnimationFrame(raf)
+  }
+
+  requestAnimationFrame(raf)
+})
+
+onUnmounted(() => {
+  if (lenis) lenis.destroy()
+})
+</script>
+
 <template>
   <div class="min-h-screen relative selection:bg-accent/30 selection:text-accent overflow-x-hidden">
     <div class="fixed inset-0 bg-[#050505] -z-30"></div>
 
     <div class="fixed inset-0 overflow-hidden -z-20 pointer-events-none">
-      <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-blue-500/10 blur-[120px] animate-pulse"></div>
-      <div class="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] rounded-full bg-indigo-500/10 blur-[120px] animate-pulse" style="animation-delay: 2s;"></div>
+      <div class="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] rounded-full bg-teal-500/5 blur-[120px] animate-pulse-slow"></div>
+      <div class="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] rounded-full bg-indigo-500/5 blur-[120px] animate-pulse-slow" style="animation-delay: 2s;"></div>
     </div>
 
-    <div class="fixed inset-0 -z-10 opacity-[0.15] mask-[radial-gradient(ellipse_at_center,black,transparent)]"
-         style="background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMiIgY3k9IjIiIHI9IjEiIGZpbGw9IiNmZmYiLz48L3N2Zz4='); background-size: 40px 40px;">
-    </div>
-
-    <div class="fixed inset-0 pointer-events-none opacity-[0.1] z-50 contrast-150 brightness-100"
+    <div class="fixed inset-0 pointer-events-none opacity-[0.07] z-50 mix-blend-overlay"
          style="background-image: url('https://grainy-gradients.vercel.app/noise.svg');"></div>
 
     <AppNav />
@@ -22,7 +47,7 @@
           enter-active-class="transition duration-700 ease-out"
           enter-from-class="opacity-0 translate-y-8"
           enter-to-class="opacity-100 translate-y-0"
-          leave-active-class="transition duration-400 ease-in"
+          leave-active-class="transition duration-300 ease-in"
           leave-from-class="opacity-100"
           leave-to-class="opacity-0 -translate-y-4"
           mode="out-in"
@@ -43,22 +68,13 @@
   </div>
 </template>
 
-<script setup>
-import AppNav from './components/AppNav.vue'
-</script>
-
 <style>
-/* Global page transitions */
-.page-enter-active, .page-leave-active { transition: all 0.4s ease-in-out; }
-.page-enter-from { opacity: 0; transform: translateY(10px); }
-.page-leave-to { opacity: 0; transform: translateY(-10px); }
-
-/* Custom pulse for the mesh gradient */
-@keyframes pulse {
-  0%, 100% { opacity: 0.4; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.1); }
+/* Slower, more organic pulse */
+@keyframes pulse-slow {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.1); }
 }
-.animate-pulse {
-  animation: pulse 8s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+.animate-pulse-slow {
+  animation: pulse-slow 10s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
 </style>

@@ -18,20 +18,20 @@ const getComplexityLevel = () => {
 
 <template>
   <router-link :to="{ name: 'detail', params: { id: project.id } }"
-    class="glass-panel group relative flex flex-col p-1 overflow-hidden rounded-[40px] transition-all duration-700 hover:scale-[1.02]">
+    class="glass-panel group relative flex flex-col p-1 overflow-hidden rounded-[28px] md:rounded-[40px] transition-all duration-700 hover:scale-[1.02]">
     <div
-      class="p-8 h-full flex flex-col bg-zinc-950/40 rounded-[38px] border border-white/5 group-hover:border-accent/30 transition-colors">
+      class="p-6 md:p-8 h-full flex flex-col bg-zinc-950/40 rounded-[24px] md:rounded-[38px] border border-white/5 group-hover:border-accent/30 transition-colors">
 
-      <div class="flex justify-between items-start mb-12">
+      <div class="flex justify-between items-start mb-8 md:mb-12">
         <div class="flex -space-x-3">
           <img v-for="icon in project.icons.filter(i => i)" :key="icon" :src="getImageUrl(icon)"
-            class="w-11 h-11 rounded-full bg-zinc-900 p-2.5 border-2 border-zinc-950 group-hover:border-accent/40 group-hover:translate-x-1 transition-all duration-500" />
+            class="w-10 h-10 md:w-11 md:h-11 rounded-full bg-zinc-900 p-2 md:p-2.5 border-2 border-zinc-950 group-hover:border-accent/40 group-hover:translate-x-1 transition-all duration-500" />
         </div>
 
         <div class="flex flex-col items-end gap-2">
           <span class="text-[8px] uppercase tracking-widest opacity-40">Complexity</span>
           <div class="flex gap-1">
-            <div v-for="n in 3" :key="n" class="w-6 h-1 rounded-full transition-all duration-1000"
+            <div v-for="n in 3" :key="n" class="w-5 md:w-6 h-1 rounded-full transition-all duration-1000"
               :class="n <= getComplexityLevel() ? 'bg-accent shadow-[0_0_15px_#2dd4bf]' : 'bg-white/5'">
             </div>
           </div>
@@ -39,7 +39,7 @@ const getComplexityLevel = () => {
       </div>
 
       <div class="mt-auto">
-        <div class="overflow-hidden rounded-2xl mb-6 aspect-video bg-zinc-900 border border-white/5 relative">
+        <div class="overflow-hidden rounded-2xl mb-4 md:mb-6 aspect-video bg-zinc-900 border border-white/5 relative">
           <img :src="getImageUrl(project.img[0])"
             class="w-full h-full object-cover opacity-50 grayscale group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-110 transition-all duration-1000" />
           <div class="absolute inset-0 bg-linear-to-t from-zinc-950 to-transparent opacity-60"></div>
@@ -47,16 +47,16 @@ const getComplexityLevel = () => {
 
         <div class="flex justify-between items-end">
           <div>
-            <span class="text-[9px] text-accent font-bold uppercase tracking-[0.4em] block mb-3">{{ project.date
+            <span class="text-[8px] md:text-[9px] text-accent font-bold uppercase tracking-[0.4em] block mb-2 md:mb-3">{{ project.date
               }}</span>
-            <h3 class="font-serif text-3xl leading-none  tracking-tight group-hover:text-accent transition-colors">
+            <h3 class="font-serif text-2xl md:text-3xl leading-none tracking-tight group-hover:text-accent transition-colors">
               {{ project.subject }}
             </h3>
           </div>
           <div>
             <div
-              class="w-12 h-12 rounded-full border border-white/10 flex items-center justify-center group-hover:bg-accent group-hover:text-black transition-all duration-500 -rotate-45 group-hover:rotate-0">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              class="w-10 h-10 md:w-12 md:h-12 rounded-full border border-white/10 flex items-center justify-center group-hover:bg-accent group-hover:text-black transition-all duration-500 -rotate-45 group-hover:rotate-0">
+              <svg class="w-4 h-4 md:w-5 md:h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <line x1="7" y1="17" x2="17" y2="7"></line>
                 <polyline points="7 7 17 7 17 17"></polyline>
               </svg>

@@ -7,41 +7,81 @@
 
   --color-accent: #2dd4bf;
   --color-glass: rgba(255, 255, 255, 0.02);
-  --color-border-glass: rgba(255, 255, 255, 0.08);
 }
 
 :root {
-  background-color: #000;
+  background-color: #050505;
   color: #fff;
 }
 
+/* Prevent horizontal scroll on mobile */
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+html.lenis {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* --- THE UPGRADED GLASS PANEL --- */
 .glass-panel {
+  position: relative;
   background: var(--color-glass);
-  backdrop-filter: blur(20px);
-  border: 1px solid var(--color-border-glass);
-  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  /* No standard border */
+  border: none; 
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 }
 
-.glass-panel:hover {
-  background: rgba(255, 255, 255, 0.05);
-  border-color: rgba(45, 212, 191, 0.3);
+/* The Gradient Border Trick */
+.glass-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit; 
+  padding: 1px; /* This determines border width */
+  
+  /* The gradient mimics light hitting the top-left corner */
+  background: linear-gradient(
+    135deg, 
+    rgba(255, 255, 255, 0.15), 
+    rgba(255, 255, 255, 0.01) 40%, 
+    rgba(255, 255, 255, 0.05)
+  ); 
+  
+  /* Masking logic to only show the border */
+  -webkit-mask: 
+     linear-gradient(#fff 0 0) content-box, 
+     linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
 }
 
+/* Hover effect for the border */
+.glass-panel:hover::before {
+  background: linear-gradient(
+    135deg, 
+    rgba(45, 212, 191, 0.4), 
+    rgba(255, 255, 255, 0.05) 50%
+  );
+}
+
+/* --- NAV LINKS --- */
 .nav-link {
-  @apply opacity-40 hover:opacity-100 hover:text-accent transition-all duration-500 relative flex flex-col items-center;
-}
-
-/* Subtle dot indicator for hover/active states */
-.nav-link::after {
-  content: '';
-  @apply w-1 h-1 bg-accent rounded-full absolute -bottom-2 opacity-0 transition-all duration-500 scale-0;
-}
-
-.nav-link:hover::after {
-  @apply opacity-100 scale-100;
-}
-
-/* If you want the dot to stay for the active router link */
-.router-link-active::after {
-  @apply opacity-100 scale-100;
+  @apply opacity-60 hover:opacity-100 hover:text-accent;
 }

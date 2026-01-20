@@ -29,23 +29,23 @@ const getImg = (name) => {
 </script>
 
 <template>
-  <div v-if="project" class="max-w-7xl mx-auto px-6 py-24">
-    <div class="mb-20">
+  <div v-if="project" class="max-w-7xl mx-auto px-4 sm:px-6 py-16 md:py-24">
+    <div class="mb-12 md:mb-20">
       <router-link to="/"
         class="text-[10px] uppercase tracking-[0.5em] text-accent font-bold hover:opacity-70 transition-opacity">
         ← Back to Index
       </router-link>
-      <h1 class="font-serif text-6xl md:text-8xl mt-10 mb-6 leading-[0.9] tracking-tighter">
+      <h1 class="font-serif text-4xl sm:text-5xl md:text-7xl lg:text-8xl mt-6 md:mt-10 mb-4 md:mb-6 leading-[0.95] md:leading-[0.9] tracking-tighter">
         {{ project.subject }}
       </h1>
       <span class="text-[10px] uppercase tracking-widest text-accent font-bold block">{{ project.date }}</span>
-      <p class="text-zinc-400 text-xl md:text-2xl font-light max-w-3xl leading-relaxed">
+      <p class="text-zinc-400 text-lg md:text-2xl font-light max-w-3xl leading-relaxed mt-4 md:mt-0">
         {{ project.titleDesc }} 
       </p>
     </div>
 
     <div
-      class="glass-panel rounded-[40px] md:rounded-[60px] overflow-hidden mb-24 relative group border border-white/10">
+      class="glass-panel rounded-[24px] md:rounded-[60px] overflow-hidden mb-16 md:mb-24 relative group border border-white/10">
       <swiper :modules="modules" :slides-per-view="1" :effect="'fade'" :loop="project.img?.length > 1"
         :autoplay="{ delay: 4000, disableOnInteraction: false }" :pagination="{ clickable: true }"
         class="aspect-video w-full">
@@ -54,19 +54,20 @@ const getImg = (name) => {
         </swiper-slide>
       </swiper>
 
-      <div class="absolute bottom-8 left-8 z-10 flex gap-3">
+      <div class="absolute bottom-4 left-4 md:bottom-8 md:left-8 z-10 flex gap-2 md:gap-3">
         <img v-for="icon in project.icons.filter(i => i)" :key="icon" :src="icon"
-          class="w-12 h-12 rounded-full bg-black/60 backdrop-blur-md p-2 border border-white/20 shadow-2xl" />
+          class="w-10 h-10 md:w-12 md:h-12 rounded-full bg-black/60 backdrop-blur-md p-2 border border-white/20 shadow-2xl" />
       </div>
     </div>
 
-    <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
-      <div class="lg:col-span-4 space-y-12">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-16">
+      
+      <div class="lg:col-span-4 space-y-8 md:space-y-12 order-2 lg:order-1">
         <div>
           <span class="text-[10px] uppercase tracking-widest text-accent font-bold block mb-4">Core Stack</span>
           <div class="flex flex-wrap gap-2">
             <span v-for="tool in project.tools" :key="tool"
-              class="px-4 py-1.5 rounded-full border border-white/10 bg-white/5 text-[10px] uppercase tracking-widest font-medium">
+              class="px-3 py-1.5 md:px-4 md:py-1.5 rounded-full border border-white/10 bg-white/5 text-[9px] md:text-[10px] uppercase tracking-widest font-medium">
               {{ tool }}
             </span>
           </div>
@@ -74,18 +75,17 @@ const getImg = (name) => {
 
         <div v-if="project.link" class="pt-8 border-t border-white/5">
           <a :href="project.link" target="_blank" class="group flex items-center gap-3">
-            <span class="font-serif text-2xl group-hover:text-accent transition-colors">Launch Project</span>
+            <span class="font-serif text-xl md:text-2xl group-hover:text-accent transition-colors">Launch Project</span>
             <span class="text-accent group-hover:translate-x-1 transition-transform">↗</span>
           </a>
         </div>
       </div>
 
-      <div class="lg:col-span-8 space-y-10">
-        <span class="text-[10px] uppercase tracking-widest text-zinc-500 font-bold block">Analysis &
-          Implementation</span>
-        <div v-for="(paragraph, index) in project.challenge" :key="index" class="relative pl-8 border-l border-white/5">
+      <div class="lg:col-span-8 space-y-8 md:space-y-10 order-1 lg:order-2">
+        <span class="text-[10px] uppercase tracking-widest text-zinc-500 font-bold block">Analysis & Implementation</span>
+        <div v-for="(paragraph, index) in project.challenge" :key="index" class="relative pl-6 md:pl-8 border-l border-white/5">
           <div class="absolute -left-px top-0 h-4 w-0.5 bg-accent"></div>
-          <p class="text-lg md:text-xl text-zinc-300 leading-relaxed font-light">
+          <p class="text-base md:text-xl text-zinc-300 leading-relaxed font-light">
             {{ paragraph }}
           </p>
         </div>
